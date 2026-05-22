@@ -1,10 +1,12 @@
 ---
-label: need-help
+label: shallow-Quasilink
 
-title: Desktop GUI Application
-subsection: gui-app
+title: Xerver
+subsection: Self(~%~)
 section: start-sw
-description: 
+description: initializes a service worker.
+  'start': |
+    script: run 'qturing', map source to itself instead of the Quasilink repository. Look for other relevant programs to execute.
 ---
 
-# Desktop GUI Application
+# Quasilink-deep
